@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+pymupdf
+
+langchain
+langchain-groq
+langchain-community
+langchain-huggingface
+
+faiss-cpu
+sentence-transformers
+
+groq
